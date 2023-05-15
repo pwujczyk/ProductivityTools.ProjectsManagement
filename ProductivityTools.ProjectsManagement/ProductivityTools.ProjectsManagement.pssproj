@@ -29,7 +29,6 @@
   <ItemGroup>
     <Compile Include="ProductivityTools.ProjectsManagement.psd1" />
     <Compile Include="ProductivityTools.ProjectsManagement.psm1" />
-    <Compile Include="ProductivityTools.ProjectsManagement.tests.ps1" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <Target Name="Build" />
